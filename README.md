@@ -1,11 +1,5 @@
-# Practice Challenge: Flatiron Pizza
 
 ![Pizza Screen Recording](https://curriculum-content.s3.amazonaws.com/react/pizza.gif)
-
-Welcome to your first day at the Flatiron Pizzeria!
-
-Today, you are tasked to building an online menu of all the pizzas that the
-pizzeria offers.
 
 ## Setup
 
@@ -21,7 +15,7 @@ In another tab, run `npm start` to start up our React app at
 
 ## Deliverables
 
-After firing up your server, render the list of pizzas in to the table.
+Render the list of pizzas in to the table.
 
 Each row in the table should be a pizza component and when you click the "Edit"
 button, it should send the pizza associated with that component into the Pizza
@@ -32,3 +26,4 @@ which will be editable.
 
 When the form is submitted, the information should be reflected in your table
 and persist in the backend.
+# Pizza-Shop
